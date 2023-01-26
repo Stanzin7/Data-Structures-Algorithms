@@ -1,4 +1,6 @@
 # Data-Structures-Algorithms
 Java-Crux-July-Batch
 
-// This repository is created for Java-Crux-students. All the Assignments help for students will be uploaded here so they can refer to this code. 
+// This repository has been set up for Java-Crux-students from the July Batch 2022. At Midnight,
+all Assignment solutions will be uploaded. There are no assignment deadlines. Make sure you don't 
+duplicate the code and instead use it as a reference.
